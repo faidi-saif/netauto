@@ -4,7 +4,8 @@ vlans:
 	id: 10
      blue: 
         id :20
-    
+     dev :
+        id : bdev 
 ports:
  1: [ 10 ]
  2: [ 20 ]
