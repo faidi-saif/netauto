@@ -4,6 +4,8 @@ vlans:
 	id: 10
      blue: 
         id :20
+
+
      master :
         id : port for s1
 ports:
